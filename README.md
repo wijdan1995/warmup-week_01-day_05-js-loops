@@ -39,4 +39,4 @@ Go to the store and buy some more, 99 bottles of coke on the wall.
 #### Bonus:
 
 - Write a function `singSong()` that takes the number of bottles as an argument and sings the song starting from the number you've passed all the way to the end _(ie, 0)_. `singSong(200)`.
-- Be able to count between a range of numbers (ie, 20 to 10). `singSong(200, 5)`
+- Be able to count between a range of numbers (ie, 200 to 5). `singSong(200, 5)`
